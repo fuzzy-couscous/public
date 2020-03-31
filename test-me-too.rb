@@ -1,5 +1,4 @@
 #!/usr/local/bin/ruby
 
-TO = 'cold@fro.zone'.freeze
-puts TO
-
+PERSON = 'bob'.freeze
+puts "Hey #{PERSON}"
