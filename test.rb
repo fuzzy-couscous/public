@@ -1,4 +1,3 @@
 #!/usr/local/bin/ruby
-
-10.times { puts "hello" }
-
+# frozen_string_literal: true
+10.times { puts 'Hello!' }
