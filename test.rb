@@ -1,6 +1,6 @@
 #!/usr/local/bin/ruby
 
-puts 'rubo cop test '
+puts "rubo cop test "
 
 x=0
 
