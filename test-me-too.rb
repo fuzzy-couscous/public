@@ -1,3 +1,5 @@
 #!/usr/local/bin/ruby
-TO='cold@fro.zone'.freeze
+
+TO = 'cold@fro.zone'.freeze
 puts TO
+
