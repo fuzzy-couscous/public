@@ -10,5 +10,5 @@ z = x + y
 
 puts z
 
-puts "done"
+puts "done   "  
 	
