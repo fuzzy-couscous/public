@@ -1,3 +1,4 @@
 #!/usr/local/bin/ruby
 
-puts 'all done!'
+10.times { puts "hello" }
+
